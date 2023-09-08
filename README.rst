@@ -1,14 +1,6 @@
-Title
+Fix temporaneo per subcontracting
 ===============================
-Description
-
-Configuration
-=============
-
-Usage
-=====
-Descriprion usage
-
+Fix per scalare correttamente componenti in caso di subcontracting
 
 Credits
 =======
@@ -21,4 +13,4 @@ Authors
 Contributors
 ~~~~~~~~~~~~
 
-* Moccia Francesco <moccia.f@stesi.eu>
+* Michele <dicroce.m@stesi.eu>
